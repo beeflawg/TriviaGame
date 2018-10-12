@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 10px;
+    background-image: url("../images/images.jpeg");
+    color: aliceblue;
+    text-shadow: 2px 2px black;
+}
+header {
+    color: yellowgreen;
+    margin-top: 50px;
+}
+.hidden {
+        display: none;
+    }
+#questions {
+    color:rgb(204, 206, 88);
+}
+#timer {
+    color: red;
+}
+.container {
+    background-color: #2879a8;
+}
